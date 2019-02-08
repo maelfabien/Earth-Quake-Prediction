@@ -1,5 +1,7 @@
 # Eart Quake Prediction
 
+<img src="https://github.com/maelfabien/Earth-Quake-Prediction/blob/master/Images/earthquake.jpeg" alt="Illustration" />
+
 ## Acknowledgments
 
 This repository contains the results and code of Team XXX produced for the Kaggle Competition "LANL Earthquake Prediction" proposed by Los Alamos National Laboratory.
